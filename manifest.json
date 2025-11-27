@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://nata12418.github.io",
+  "display": "standalone"
+}
